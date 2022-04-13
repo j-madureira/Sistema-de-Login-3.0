@@ -1,0 +1,22 @@
+Criar uma variável que recebe o nome do usuário para cadastro
+Criar uma variável que recebe a senha do usuário para cadastro
+Criar uma variável que recebe o nome da pessoa
+Criar uma variável que recebe a localização do estado do cliente
+Criar uma variável que recebe a localização da cidade do cliente
+Criar uma variável que recebe a localização do bairro do cliente
+Criar uma variável que recebe a localização da rua e endereço do cliente
+
+Criar uma variável que recebe o nome do usuário para login
+Criar uma variável que recebe a senha do usuário para login
+
+Se a senha para login for igual a senha de cadastro = Logar
+Avisar ao sistema que o cliente está ativo
+Aparecer uma mensagem ao cliente de boas vindas
+Criar uma variável que será o lanche que cliente pedir
+Criar uma variável que será a bebida que o cliente pedir
+Criar uma variável que será referente a sobremesa do cliente
+
+Informar ao sistema o pedido do cliente, contendo também a localização 
+para a entrega
+
+Informar ao cliente que o pedido foi finalizado e que está a caminho de sua casa
